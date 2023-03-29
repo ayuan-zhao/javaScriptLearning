@@ -3,7 +3,7 @@
   <script src="/static/js/abc.js"></script>
 </head>
 <body>
-  ...
+
 </body>
 </html>
 
